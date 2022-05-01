@@ -1,0 +1,3 @@
+email:shopcampus@gmail.com
+username:shopcampus
+password:shopcampus2021
